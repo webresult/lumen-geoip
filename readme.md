@@ -1,5 +1,7 @@
 # GeoIP for Lumen
 
+[![Latest Stable Version](https://poser.pugx.org/codenexus/lumen-geoip/v/stable)](https://packagist.org/packages/codenexus/lumen-geoip) [![Total Downloads](https://poser.pugx.org/codenexus/lumen-geoip/downloads)](https://packagist.org/packages/codenexus/lumen-geoip) [![Latest Unstable Version](https://poser.pugx.org/codenexus/lumen-geoip/v/unstable)](https://packagist.org/packages/codenexus/lumen-geoip) [![License](https://poser.pugx.org/codenexus/lumen-geoip/license)](https://packagist.org/packages/codenexus/lumen-geoip)
+
 Determine the geographical location of website visitors based on their IP addresses.
 
 ## Installation
