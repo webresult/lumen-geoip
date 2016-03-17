@@ -40,7 +40,7 @@ class GeoIP {
 			throw new \Exception("IP Address is either not a valid IPv4/IPv6 address or falls within the private or reserved ranges");
 		}
 
-		$reader = new Reader(storage_path('app/geoip.mmdb'));
+		$reader = new Reader('/home/geoip/GeoIP2-City.mmdb');
 		$record = $reader->city($ip);
 
 		return $record;
